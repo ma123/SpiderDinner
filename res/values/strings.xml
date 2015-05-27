@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty"/>
+    <string name="high_score">High score:</string>
+    <string name="score">Score:</string>
+    <string name="game_over">Game over</string>
+    <string name="spider">Spider</string>
+    <string name="app_name">Spider dinner</string>
+    <string name="play_game">Game</string>
+    <string name="exit">Exit</string>
+    <string name="title_game">Spider dinner</string>
+    <string name="story"> During our life we eat up to half a kilogram of spiders in sleep. Now you can prevent it!</string>
+    <string name="absurd_joke">Are you hungry?</string>
+
+</resources>

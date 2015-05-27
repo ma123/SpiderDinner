@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize">16dp</dimen>
+    <dimen name="fontSizeLevel">25dp</dimen>
+    <dimen name="spiderSpeed">12dp</dimen>
+    
+    <dimen name="titleGame">18dp</dimen>
+    <dimen name="btnGame">13dp</dimen>
+    <dimen name="story">9dp</dimen>
+    <dimen name="gameOver">24dp</dimen>
+    
+    <dimen name="xTitleGame">12dp</dimen>
+    <dimen name="xBtnGame">10dp</dimen>
+    <dimen name="xStory">6dp</dimen>
+    <dimen name="xGameOver">18dp</dimen>
+</resources>
